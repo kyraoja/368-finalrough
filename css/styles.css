@@ -10,8 +10,22 @@ Dark Blue: 586077 */
 
 /* Stylesheet */
 
-aside{
+quote{
+	text-align: center;
+	width:100%;
+	height:auto;
+	font-size:30px;
+	line-height:30px;
+	
+	
 		
+}
+
+#blockquote{
+	font-style: italic;
+	vertical-align: top;
+	font-size: 86px;
+
 }
 
 body{
@@ -19,13 +33,12 @@ body{
 }
 
 #header color{
-	background: #F3869D;
+	background: #FEBCCA;
 	
 }
 
 h1{
-	font-family: 'Shadows Into Light Two', cursive;
-	background: #F3869D;
+	background: #FEBCCA;
 	text-align: center;
 	width:100%;
 	height:135px;
@@ -33,7 +46,7 @@ h1{
 	line-height:18px;
 	margin:0 0 20px;
 	padding:20px;
-	
+	font-family: housegrind;
 }
 
 #header background{
@@ -58,13 +71,14 @@ li{
 }
 
 nav{
-	background: #FEBCCA;
-	font-size:14px; 
+	background: #F3869D;
+	font-size:18px; 
 	text-transform:lowercase; 
 	letter-spacing:0.05em; 
 	font-weight:normal;
-	width:auto;
+	width:100%;
 	height:auto;
+	padding: 0px 40px 0px 0px;
 	
 }
 
