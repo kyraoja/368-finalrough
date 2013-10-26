@@ -1,3 +1,28 @@
+/* Color Palette
+Light Pink: FEBCCA
+Pink: F3869D
+Light Blue: 96C5D5
+Blue: 5A94A8
+Dark Blue: 586077 */
+
 @charset "UTF-8";
 /* CSS Document */
 
+/* Stylesheet */
+
+body{
+	background: url("../img/pw_maze_white.png");	
+}
+
+h1{
+	font-family: 'Shadows Into Light Two', cursive;
+}
+
+#header name{
+	color: #F3869D;
+}
+
+#kyra{
+	width: 400px;
+	height: auto;
+}
