@@ -10,6 +10,10 @@ Dark Blue: 586077 */
 
 /* Stylesheet */
 
+aside{
+		
+}
+
 body{
 	background: url("../img/pw_maze_white.png");	
 }
@@ -39,6 +43,11 @@ h1{
 	position:absolute;
 }
 
+footer{
+	font-size: 12px;
+	padding: 25px 0px 20px 0px;
+	text-align:center;
+}
 
 li{
 	list-style: none;
@@ -62,4 +71,20 @@ nav{
 #kyra{
 	width: 400px;
 	height: auto;
+	border-radius: 30px;
+}
+
+#facebook{
+	width:25px;
+	height: auto:
+}
+
+#instagram{
+	width:25px;
+	height: auto:
+}
+
+#linkedin{
+	width:25px;
+	height: auto:
 }
