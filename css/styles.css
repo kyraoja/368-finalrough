@@ -14,13 +14,22 @@ body{
 	background: url("../img/pw_maze_white.png");	
 }
 
-h1{
-	font-family: 'Shadows Into Light Two', cursive;
+#header color{
+	background: #F3869D;
+	
 }
 
-#header name{
-	color: #F3869D;
+h1{
+	font-family: 'Shadows Into Light Two', cursive;
+	background: #F3869D;
+	text-align: center;
 }
+
+ul{
+	text-decoration: none;
+}
+
+
 
 #kyra{
 	width: 400px;
