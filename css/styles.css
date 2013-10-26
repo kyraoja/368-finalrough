@@ -14,11 +14,8 @@ quote{
 	text-align: center;
 	width:100%;
 	height:auto;
-	font-size:30px;
-	line-height:30px;
-	
-	
-		
+	font-size:27px;
+			
 }
 
 #blockquote{
@@ -28,6 +25,13 @@ quote{
 
 }
 
+#floater{
+	font-style: italic;
+	vertical-align: top;
+	font-size: 86px;
+	float: right;
+}
+	
 body{
 	background: url("../img/pw_maze_white.png");	
 }
@@ -37,13 +41,18 @@ body{
 	
 }
 
-
-#h1 name{
-	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-	padding: 50px 0px 0px 0px;
+h1{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align:center;
+	padding: 100px 0px 50px 0px;
+	background: #FEBCCA;
+	width:100%;
+	font-size:60px;
+	line-height:18px;
+	margin:0 0 20px;
 }
 
-h1{
+.back{
 	background: #FEBCCA;
 	text-align: center;
 	width:100%;
@@ -52,7 +61,7 @@ h1{
 	line-height:18px;
 	margin:0 0 20px;
 	padding:20px;
-	font-family: housegrind;
+	
 }
 
 #header background{
@@ -76,6 +85,11 @@ li{
 	
 }
 
+#services{
+	text-align: left;
+	
+}
+
 nav{
 	background: #F3869D;
 	font-size:18px; 
@@ -84,7 +98,7 @@ nav{
 	font-weight:normal;
 	width:100%;
 	height:auto;
-	padding: 0px 40px 0px 0px;
+	
 	
 }
 
@@ -92,7 +106,9 @@ nav{
 	width: 400px;
 	height: auto;
 	border-radius: 30px;
+	
 }
+
 
 #facebook{
 	width:25px;
@@ -107,4 +123,8 @@ nav{
 #linkedin{
 	width:25px;
 	height: auto:
+}
+
+#me{
+	float:right;
 }
