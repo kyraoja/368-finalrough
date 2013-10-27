@@ -86,7 +86,9 @@ li{
 	
 }
 
-
+ul{
+	line-height: 20px;
+}
 
 nav{
 	background: #F3869D;
